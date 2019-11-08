@@ -6,8 +6,10 @@ package com.xoriant.demo3;
  */
 public class App 
 {
-//    public static void main( String[] args )
-//      {
-//          System.out.println( "Hello World!" );
-//  }
+   public static void main( String[] args )
+{	String username="vvk";
+		String password="hello";
+    	System.out.println("akshay");
+    	
+  }
 }
